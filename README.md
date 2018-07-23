@@ -4,4 +4,4 @@ This repository contains the group project undertaken during the course "Optimiz
 ### Assignment - Project on Support Vector Machines
 1. [Assignment Description](svm_smo_project/svm_smo_assignment_description.pdf) 
 2. [Jupyter Notebook](svm_smo_project/svm_smo_implementation.html)
-3. [Report](svm_smo_project/svm_smo_implementation.pdf)
+3. [Report](svm_smo_project/svm_smo_report.pdf)
